@@ -1,0 +1,1328 @@
+From: <Saved by Microsoft Internet Explorer 5>
+Subject: Mersenne Primes: History, Theorems and Lists
+Date: Sat, 23 Feb 2002 12:04:25 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_01C1BC62.3CD14890";
+	type="text/html"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C1BC62.3CD14890
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.utm.edu/research/primes/mersenne/index.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Mersenne Primes: History, Theorems and Lists</TITLE>
+<META content=3D"Chris K. Caldwell" name=3Dauthor><LINK rev=3Dmade=20
+href=3D"mailto:caldwell@utm.edu">
+<META http-equiv=3DPICS-Label=20
+content=3D'(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true =
+comment "RSACi North America Server" by "caldwell@utm.edu" for =
+"http://www.utm.edu/research/primes/" on "1998.03.08T14:15-0800" r (n 0 =
+s 0 v 0 l 0))'>
+<META=20
+content=3D"The definitive pages on the Mersenne primes and the related =
+mathematics!"=20
+name=3Ddescription>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META=20
+content=3D"Mersenne, Mersennes, prime, primes, perfect numbers, number =
+theory, mathematics"=20
+name=3Dkeywords>
+<META content=3D"MSHTML 6.00.2600.0" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#ffffff>
+<CENTER>
+<H1>Mersenne Primes:<BR>History, Theorems and Lists</H1></CENTER>
+<CENTER><A =
+href=3D"http://www.utm.edu/research/primes/notes/6972593/"><IMG=20
+height=3D25 alt=3D"Another Record Prime"=20
+src=3D"http://www.utm.edu/research/primes/gifs/banner1.gif" =
+width=3D210></A> <A=20
+href=3D"http://www.mersenne.org/prime.htm"><IMG height=3D25 alt=3D"Join =
+the Search"=20
+src=3D"http://www.utm.edu/research/primes/gifs/banner3.gif" =
+width=3D210></A>=20
+</CENTER>
+<H3>Contents:</H3>
+<OL>
+  <LI><A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#hist">Earl=
+y=20
+  History</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#theorems">=
+Perfect=20
+  Numbers and a Few Theorems</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#known">Tab=
+le of=20
+  Known Mersenne Primes</A>=20
+  <LI><A =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#test">The =
+
+  Lucas-Lehmer Test and Recent History</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#unknown">C=
+onjectures=20
+  and Unsolved Problems</A>=20
+  <LI>See also <A=20
+  =
+href=3D"http://www.utm.edu/research/primes/notes/faq/NextMersenne.html">W=
+here is=20
+  the next larger Mersenne prime?</A> and <A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/heuristic.html">Merse=
+nne=20
+  heuristics</A>=20
+  <LI>For remote pages on Mersennes see the <A=20
+  =
+href=3D"http://primes.utm.edu/links/theory/special_forms/Mersenne/index.h=
+tml">Prime=20
+  Links' Mersenne directory</A> </LI></OL><!-- WARN -->
+<CENTER>
+<TABLE cellPadding=3D5 width=3D400 border=3D1>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle bgColor=3D#add8e6><I><B>Note:</B> If you do not =
+see=20
+      <SUP>super</SUP>scripts and <SUB>sub</SUB>scripts in <U>this</U>=20
+      sentence,</I> <I>then you may <A=20
+      href=3D"http://www.utm.edu/cgi-bin/caldwell/de-sup">click here</A> =
+for a=20
+      version of this page without super/subscripts.</I>=20
+</TD></TR></TBODY></TABLE></CENTER><!-- /WARN --><CCMETA skip><LINK=20
+href=3D"http://www.utm.edu/research/primes/includes/primepages.css" =
+type=3Dtext/css=20
+rel=3Dstylesheet>
+<P>
+<HR>
+<B>Primes:</B> [ <A class=3Dmenu title=3D"Home page"=20
+href=3D"http://www.utm.edu/research/primes/"><B>Home</B></A> || <A =
+class=3Dmenu=20
+href=3D"http://www.utm.edu/research/primes/largest.html"><B>Largest</B></=
+A> | <A=20
+class=3Dmenu =
+href=3D"http://www.utm.edu/research/primes/prove/">Proving</A> | <A=20
+class=3Dmenu =
+href=3D"http://www.utm.edu/research/primes/howmany.shtml">How Many?</A>=20
+| <A class=3Dmenu =
+href=3D"http://www.utm.edu/research/primes/mersenne/">Mersenne</A>=20
+| <A class=3Dmenu href=3D"http://primes.utm.edu/glossary/">Glossary</A> =
+| <A=20
+class=3Dmenu =
+href=3D"http://groups.yahoo.com/group/primenumbers/">Mailing List</A> |=20
+<A class=3Dmenu=20
+href=3D"http://www.utm.edu/cgi-bin/caldwell/bubba/research/primes/cgi/bub=
+ba/">Guestbook</A>=20
+]=20
+<HR>
+
+<P><CCMETA endskip>
+<H2><A name=3Dhist></A>1. Early History</H2>Many early writers felt that =
+the=20
+numbers of the form 2<I><SUP>n</SUP></I>-1 were prime for <I>all</I> =
+primes=20
+<I>n</I>, but in 1536 Hudalricus Regius showed that 2<SUP>11</SUP>-1 =3D =
+2047 was=20
+not prime (it is 23<SUP>.</SUP>89).&nbsp; By 1603 <A=20
+href=3D"http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Catald=
+i.html">Pietro=20
+Cataldi</A> had correctly verified that 2<SUP>17</SUP>-1 and =
+2<SUP>19</SUP>-1=20
+were both prime, but then incorrectly stated 2<I><SUP>n</SUP></I>-1 was =
+also=20
+prime for 23, 29, 31 and 37. In 1640 <A=20
+href=3D"http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Fermat=
+.html">Fermat</A>=20
+showed Cataldi was wrong about 23 and 37; then <A=20
+href=3D"http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Euler.=
+html">Euler</A>=20
+in 1738 showed Cataldi was also wrong about 29.&nbsp; <A=20
+href=3D"http://www.utm.edu/research/primes/notes/by_year.html#31">Sometim=
+e=20
+later</A> Euler showed Cataldi's assertion about 31 was correct.=20
+<P>Enter French monk <A=20
+href=3D"http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Mersen=
+ne.html">Marin=20
+Mersenne</A> (1588-1648).&nbsp; Mersenne stated in the preface to his=20
+<I>Cogitata Physica-Mathematica</I> (1644) that the numbers=20
+2<I><SUP>n</SUP></I>-1 were prime for=20
+<BLOCKQUOTE><I>n</I> =3D 2, 3, 5, 7, 13, 17, 19, <B>31, 67, 127 and=20
+  257</B>&nbsp; </BLOCKQUOTE>and were composite for all other positive =
+integers=20
+<I>n</I> &lt; 257. Mersenne's (incorrect) conjecture fared only slightly =
+better=20
+than Regius', but still got his name attached to these numbers.=20
+<BLOCKQUOTE><B>Definition:</B> When 2<I><SUP>n</SUP></I>-1 is prime it =
+is said=20
+  to be a <B>Mersenne prime</B>. </BLOCKQUOTE>It was obvious to =
+Mersenne's peers=20
+that he could not have tested all of these numbers (in fact he admitted =
+as=20
+much), but they could not test them either.&nbsp; It was not until over =
+100=20
+years later, in 1750, that Euler verified the next number on Mersenne's =
+and=20
+Regius' lists, 2<SUP>31</SUP>-1, was prime.&nbsp; After another century, =
+in=20
+1876, <A=20
+href=3D"http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Lucas.=
+html">Lucas</A>=20
+verified 2<SUP>127</SUP>-1 was also prime.&nbsp; Seven years later =
+Pervouchine=20
+showed 2<SUP>61</SUP>-1 was prime, so Mersenne had missed this =
+one.&nbsp; In the=20
+early 1900's Powers showed that Mersenne had also missed the primes=20
+2<SUP>89</SUP>-1 and 2<SUP>107</SUP>-1.&nbsp; Finally, by 1947 =
+Mersenne's range,=20
+<I>n</I> <U>&lt;</U> 258, had been completely checked and it was =
+determined that=20
+the correct list is:=20
+<BLOCKQUOTE><I>n</I> =3D 2, 3, 5, 7, 13, 17, 19, 31, 61, 89, 107 and =
+127.=20
+</BLOCKQUOTE>See the <A=20
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#known">tab=
+le of=20
+known Mersenne</A> primes below.=20
+<H2><A name=3Dtheorems></A>2. Perfect Numbers and a Few =
+Theorems</H2>Many ancient=20
+cultures were concerned with the relationship of a number with the sum =
+of its=20
+divisors, often giving mystic interpretations.&nbsp; Here we are =
+concerned only=20
+with one such relationship:=20
+<BLOCKQUOTE><B>Definition:</B> A positive integer <I>n</I> is called a=20
+  <B>perfect number</B> if it is equal to the sum of all of its positive =
+
+  divisors, excluding <I>n</I> itself. </BLOCKQUOTE>For example, 6 is =
+the first=20
+perfect number because 6=3D1+2+3. The next is 28=3D1+2+4+7+14.&nbsp; The =
+next two=20
+are 496 and 8128. These four were all known before the time of =
+Christ.&nbsp;=20
+Look at these numbers in the following partially factored form:=20
+<BLOCKQUOTE>2<SUP>.</SUP>3, 4<SUP>.</SUP>7, 16<SUP>.</SUP>31,=20
+  64<SUP>.</SUP>127. </BLOCKQUOTE>Do you notice they all have the same =
+form=20
+2<SUP><I>n</I>-1</SUP>(2<I><SUP>n</SUP></I>-1) (for <I>n</I> =3D 2, 3, =
+5, and 7=20
+respectively)?&nbsp; And that in each case 2<I><SUP>n</SUP></I>-1 was a =
+Mersenne=20
+prime?&nbsp; In fact it is easy to show the following theorems:=20
+<BLOCKQUOTE><A name=3Dtheorem1></A><B>Theorem One:</B> <I>k</I> is an =
+even=20
+  perfect number if and only if it has the form=20
+  2<SUP><I>n</I>-1</SUP>(2<I><SUP>n</SUP></I>-1) and =
+2<I><SUP>n</SUP></I>-1 is=20
+  prime. [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/notes/proofs/EvenPerfect.html"=
+>Proof.</A>]=20
+
+  <P><B>Theorem Two:</B> If 2<I><SUP>n</SUP></I>-1 is prime, then so is=20
+  <I>n</I>. [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/notes/proofs/Theorem2.html">Pr=
+oof.</A>]=20
+  </P></BLOCKQUOTE>So the search for Mersennes is also the search for =
+even perfect=20
+numbers!=20
+<P>You may have also noticed that the perfect numbers listed above (6, =
+28, 496,=20
+8128) all end with either the digit 6 or the digit 8--this is also very =
+easy to=20
+prove (but no, they do not continue to alternate 6, 8, 6, 8,...).&nbsp; =
+If you=20
+like that digit pattern, look at the first four perfect numbers in =
+binary:=20
+<BLOCKQUOTE><PRE>110
+11100
+111110000
+1111111000000</PRE></BLOCKQUOTE>(The binary digit pattern is a =
+consequence of=20
+Theorem One.)&nbsp; It is <A=20
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#unknown">n=
+ot=20
+known</A> whether or not there is an odd perfect number, but if there is =
+one it=20
+is big!&nbsp; This is probably the oldest unsolved problem in all of=20
+mathematics.=20
+<P>When checking to see if a Mersenne number is prime, we usually first =
+look for=20
+any small divisors.&nbsp; The following theorem of Euler and Fermat is =
+very=20
+useful in this regard.=20
+<BLOCKQUOTE><B>Theorem Three:</B> Let <I>p</I> and <I>q</I> be primes. =
+If=20
+  <I>q</I> divides M<I><SUB>p</SUB></I> =3D 2<I><SUP>p</SUP></I>-1, then =
+
+  <BLOCKQUOTE><I>q</I> =3D +/-1 (mod 8)&nbsp;&nbsp;&nbsp;&nbsp;=20
+    and&nbsp;&nbsp;&nbsp;&nbsp; <I>q</I> =3D 2<I>kp</I> + 1 =
+</BLOCKQUOTE>for some=20
+  integer <I>k</I>. [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/notes/proofs/MerDiv.html">Proo=
+f</A>.]=20
+</BLOCKQUOTE>Finally, we offer the following for your perusal:=20
+<BLOCKQUOTE><B>Theorem Four.</B> Let <I>p</I> =3D 3 (mod 4) be prime.=20
+  2<I>p</I>+1 is also prime if and only if 2<I>p</I>+1 divides=20
+  M<SUB><I>p</I></SUB>. [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/notes/proofs/MerDiv2.html">Pro=
+of</A>].=20
+</BLOCKQUOTE>
+<BLOCKQUOTE><B>Theorem Five.</B> If you sum the digits of any even =
+perfect=20
+  number (except 6), then sum the digits of the resulting number, and =
+repeat=20
+  this process until you get a single digit, that digit will be one. [<A =
+
+  =
+href=3D"http://www.utm.edu/research/primes/notes/proofs/Theorem3.html">Pr=
+oof</A>.]=20
+</BLOCKQUOTE>
+<H2><A name=3Dknown></A>3. Table of Known Mersenne Primes</H2>Let =
+M(<I>p</I>) =3D=20
+2<I><SUP>p</SUP></I>-1 and P(<I>p</I>) =3D=20
+2<SUP><I>p</I>-1</SUP>(2<I><SUP>p</SUP></I>-1).&nbsp; The list of all =
+known=20
+primes <I>p</I> for which M(<I>p</I>) is a Mersenne prime (therefore =
+P(<I>p</I>)=20
+is a perfect number) follows:=20
+<P>
+<CENTER>
+<TABLE cellPadding=3D2 border=3D0>
+  <TBODY>
+  <TR bgColor=3Dlightblue>
+    <TH>##</TH>
+    <TH><I>p</I><BR>(exponent)</TH>
+    <TH>digits<BR>in M<SUB><I>p</I></SUB></TH>
+    <TH>digits<BR>in P<SUB><I>p</I></SUB></TH>
+    <TH>year</TH>
+    <TH>discoverer</TH>
+    <TH>notes</TH></TR>
+  <TR align=3Dmiddle>
+    <TD>1</TD>
+    <TD>2</TD>
+    <TD>1</TD>
+    <TD>1</TD>
+    <TD>----</TD>
+    <TD align=3Dleft>----</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>2</TD>
+    <TD>3</TD>
+    <TD>1</TD>
+    <TD>2</TD>
+    <TD>----</TD>
+    <TD align=3Dleft>----</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>3</TD>
+    <TD>5</TD>
+    <TD>2</TD>
+    <TD>3</TD>
+    <TD>----</TD>
+    <TD align=3Dleft>----</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>4</TD>
+    <TD>7</TD>
+    <TD>3</TD>
+    <TD>4</TD>
+    <TD>----</TD>
+    <TD align=3Dleft>----</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>5</TD>
+    <TD>13</TD>
+    <TD>4</TD>
+    <TD>8</TD>
+    <TD>1456</TD>
+    <TD align=3Dleft>anonymous</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>6</TD>
+    <TD>17</TD>
+    <TD>6</TD>
+    <TD>10</TD>
+    <TD>1588</TD>
+    <TD align=3Dleft>Cataldi</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>7</TD>
+    <TD>19</TD>
+    <TD>6</TD>
+    <TD>12</TD>
+    <TD>1588</TD>
+    <TD align=3Dleft>Cataldi</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>8</TD>
+    <TD>31</TD>
+    <TD>10</TD>
+    <TD>19</TD>
+    <TD>1772</TD>
+    <TD align=3Dleft>Euler</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>9</TD>
+    <TD>61</TD>
+    <TD>19</TD>
+    <TD>37</TD>
+    <TD>1883</TD>
+    <TD align=3Dleft>Pervushin</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>10</TD>
+    <TD>89</TD>
+    <TD>27</TD>
+    <TD>54</TD>
+    <TD>1911</TD>
+    <TD align=3Dleft>Powers</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>11</TD>
+    <TD>107</TD>
+    <TD>33</TD>
+    <TD>65</TD>
+    <TD>1914</TD>
+    <TD align=3Dleft>Powers</TD>
+    <TD><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/notes/fauquem.html">note</A></=
+TD></TR>
+  <TR align=3Dmiddle>
+    <TD>12</TD>
+    <TD>127</TD>
+    <TD>39</TD>
+    <TD>77</TD>
+    <TD>1876</TD>
+    <TD align=3Dleft>Lucas</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>13</TD>
+    <TD>521</TD>
+    <TD>157</TD>
+    <TD>314</TD>
+    <TD>1952</TD>
+    <TD align=3Dleft>Robinson</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>14</TD>
+    <TD>607</TD>
+    <TD>183</TD>
+    <TD>366</TD>
+    <TD>1952</TD>
+    <TD align=3Dleft>Robinson</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>15</TD>
+    <TD>1279</TD>
+    <TD>386</TD>
+    <TD>770</TD>
+    <TD>1952</TD>
+    <TD align=3Dleft>Robinson</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>16</TD>
+    <TD>2203</TD>
+    <TD>664</TD>
+    <TD>1327</TD>
+    <TD>1952</TD>
+    <TD align=3Dleft>Robinson</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>17</TD>
+    <TD>2281</TD>
+    <TD>687</TD>
+    <TD>1373</TD>
+    <TD>1952</TD>
+    <TD align=3Dleft>Robinson</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>18</TD>
+    <TD>3217</TD>
+    <TD>969</TD>
+    <TD>1937</TD>
+    <TD>1957</TD>
+    <TD align=3Dleft>Riesel</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>19</TD>
+    <TD>4253</TD>
+    <TD>1281</TD>
+    <TD>2561</TD>
+    <TD>1961</TD>
+    <TD align=3Dleft>Hurwitz</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>20</TD>
+    <TD>4423</TD>
+    <TD>1332</TD>
+    <TD>2663</TD>
+    <TD>1961</TD>
+    <TD align=3Dleft>Hurwitz</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>21</TD>
+    <TD>9689</TD>
+    <TD>2917</TD>
+    <TD>5834</TD>
+    <TD>1963</TD>
+    <TD align=3Dleft><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Gillies.html">Gill=
+ies</A></TD></TR>
+  <TR align=3Dmiddle>
+    <TD>22</TD>
+    <TD>9941</TD>
+    <TD>2993</TD>
+    <TD>5985</TD>
+    <TD>1963</TD>
+    <TD align=3Dleft>Gillies</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>23</TD>
+    <TD>11213</TD>
+    <TD>3376</TD>
+    <TD>6751</TD>
+    <TD>1963</TD>
+    <TD align=3Dleft>Gillies</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>24</TD>
+    <TD>19937</TD>
+    <TD>6002</TD>
+    <TD>12003</TD>
+    <TD>1971</TD>
+    <TD align=3Dleft>Tuckerman</TD>
+    <TD>[<A=20
+      =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Tuckerman7=
+1">Tuckerman71</A>]</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>25</TD>
+    <TD>21701</TD>
+    <TD>6533</TD>
+    <TD>13066</TD>
+    <TD>1978</TD>
+    <TD align=3Dleft><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Noll.html">Noll</A=
+>=20
+      &amp; Nickel</TD>
+    <TD>[<A=20
+      =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/NN80">NN80=
+</A>]</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>26</TD>
+    <TD>23209</TD>
+    <TD>6987</TD>
+    <TD>13973</TD>
+    <TD>1979</TD>
+    <TD align=3Dleft>Noll</TD>
+    <TD>"</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>27</TD>
+    <TD>44497</TD>
+    <TD>13395</TD>
+    <TD>26790</TD>
+    <TD>1979</TD>
+    <TD align=3Dleft>Nelson &amp; <A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Slowinski.html">Sl=
+owinski</A></TD>
+    <TD>[<A=20
+      =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Slowinski7=
+9">Slowinski79</A>]</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>28</TD>
+    <TD>86243</TD>
+    <TD>25962</TD>
+    <TD>51924</TD>
+    <TD>1982</TD>
+    <TD align=3Dleft>Slowinski</TD>
+    <TD>[<A=20
+      =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Ewing83">E=
+wing83</A>]</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>29</TD>
+    <TD>110503</TD>
+    <TD>33265</TD>
+    <TD>66530</TD>
+    <TD>1988</TD>
+    <TD align=3Dleft>Colquitt &amp; Welsh</TD>
+    <TD>[<A=20
+      =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/CW91">CW91=
+</A>]</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>30</TD>
+    <TD>132049</TD>
+    <TD>39751</TD>
+    <TD>79502</TD>
+    <TD>1983</TD>
+    <TD align=3Dleft>Slowinski</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>31</TD>
+    <TD>216091</TD>
+    <TD>65050</TD>
+    <TD>130100</TD>
+    <TD>1985</TD>
+    <TD align=3Dleft>Slowinski</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>32</TD>
+    <TD>756839</TD>
+    <TD>227832</TD>
+    <TD>455663</TD>
+    <TD>1992</TD>
+    <TD align=3Dleft>Slowinski &amp; <A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Gage.html">Gage</A=
+></TD>
+    <TD>[<A=20
+      =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Peterson92=
+">Peterson92</A>]</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>33</TD>
+    <TD>859433</TD>
+    <TD>258716</TD>
+    <TD>517430</TD>
+    <TD>1994</TD>
+    <TD align=3Dleft>Slowinski &amp; Gage</TD></TR>
+  <TR align=3Dmiddle>
+    <TD>34</TD>
+    <TD>1257787</TD>
+    <TD>378632</TD>
+    <TD>757263</TD>
+    <TD>1996</TD>
+    <TD align=3Dleft>Slowinski &amp; Gage</TD>
+    <TD><A =
+href=3D"http://www.utm.edu/research/primes/notes/1257787.html">(web=20
+      page)</A></TD></TR>
+  <TR align=3Dmiddle>
+    <TD>35</TD>
+    <TD>1398269</TD>
+    <TD>420921</TD>
+    <TD>841842</TD>
+    <TD>1996</TD>
+    <TD align=3Dleft><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Armengaud.html">Ar=
+mengaud</A>,=20
+      <A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Woltman.html">Wolt=
+man</A>,=20
+      <BR><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/GIMPS.html">et.=20
+      al.</A> (<A =
+href=3D"http://www.mersenne.org/prime.htm">GIMPS</A>)</TD>
+    <TD><A =
+href=3D"http://www.utm.edu/research/primes/notes/1398269/">(web=20
+      page)</A></TD></TR>
+  <TR align=3Dmiddle>
+    <TD>36</TD>
+    <TD>2976221</TD>
+    <TD>895932</TD>
+    <TD>1791864</TD>
+    <TD>1997</TD>
+    <TD align=3Dleft><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Spence.html">Spenc=
+e</A>,=20
+      Woltman,<BR>et. al. (GIMPS)</TD>
+    <TD><A =
+href=3D"http://www.utm.edu/research/primes/notes/2976221/">(web=20
+      page)</A></TD></TR>
+  <TR align=3Dmiddle>
+    <TD>37</TD>
+    <TD>3021377</TD>
+    <TD>909526</TD>
+    <TD>1819050</TD>
+    <TD>1998</TD>
+    <TD align=3Dleft><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Clarkson.html">Cla=
+rkson</A>,=20
+      Woltman, <A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Kurowski.html">Kur=
+owski</A><BR>et.=20
+      al. (GIMPS, <A =
+href=3D"http://entropia.com/ips/">PrimeNet</A>)</TD>
+    <TD><A =
+href=3D"http://www.utm.edu/research/primes/notes/3021377/">(web=20
+      page)</A></TD></TR>
+  <TR align=3Dmiddle>
+    <TD>??</TD>
+    <TD>6972593</TD>
+    <TD>2098960</TD>
+    <TD>4197919</TD>
+    <TD>1999</TD>
+    <TD align=3Dleft><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Hajratwala.html">H=
+ajratwala</A>,=20
+      Woltman, Kurowski<BR>et. al. (GIMPS, <A=20
+      href=3D"http://entropia.com/ips/">PrimeNet</A>)</TD>
+    <TD><A =
+href=3D"http://www.utm.edu/research/primes/notes/6972593/">(web=20
+      page)</A></TD></TR>
+  <TR align=3Dmiddle>
+    <TD>??</TD>
+    <TD>13466917</TD>
+    <TD>4053496</TD>
+    <TD>8107892</TD>
+    <TD>2001</TD>
+    <TD align=3Dleft><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Cameron.html">Came=
+ron</A>,=20
+      Woltman, Kurowski<BR>et. al. (GIMPS, <A=20
+      href=3D"http://entropia.com/ips/">PrimeNet</A>)</TD>
+    <TD><A=20
+      =
+href=3D"http://www.utm.edu/research/primes/notes/13466917/index.html">(we=
+b=20
+      page)</A></TD></TR></TBODY></TABLE></CENTER>
+<P>It will be some time before it is known if the current largest =
+Mersenne prime=20
+is the 39th in order of size because not all lower exponents have been=20
+checked--see the <A href=3D"http://www.mersenne.org/status.htm">GIMPS =
+Status=20
+Page</A> for more information.=20
+<H2><A name=3Dtest></A>4. The Lucas-Lehmer Test and Recent =
+History</H2>Mersenne=20
+primes (and therefore even <A=20
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#theorems">=
+perfect=20
+numbers</A>) are found using the following theorem:=20
+<BLOCKQUOTE><B>Lucas-Lehmer Test:</B> For <I>p</I> odd, the Mersenne =
+number=20
+  2<I><SUP>p</SUP></I>-1 is prime if and only if 2<I><SUP>p</SUP></I>-1 =
+divides=20
+  S(<I>p</I>-1) where S(<I>n</I>+1) =3D S(<I>n</I>)<SUP>2</SUP>-2, and =
+S(1) =3D 4.=20
+  [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/notes/proofs/LucasLehmer.html"=
+>Proof</A>.]</BLOCKQUOTE>(It=20
+is also possible to start with S(1)=3D10 and certain other values =
+depending on=20
+<I>p</I>.)&nbsp; In pseudocode this test is:=20
+<BLOCKQUOTE><PRE>Lucas_Lehmer_Test(p):
+&nbsp; s :=3D 4;
+&nbsp; for i from 3 to p do s :=3D s<SUP>2</SUP>-2 mod 2<SUP>p</SUP>-1;
+&nbsp; if s =3D=3D 0 then
+&nbsp;&nbsp;&nbsp; 2<SUP>p</SUP>-1 is prime
+&nbsp; else
+&nbsp;&nbsp;&nbsp; 2<SUP>p</SUP>-1 is composite;</PRE></BLOCKQUOTE>The =
+theory=20
+for this test was initiated by <A=20
+href=3D"http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Lucas.=
+html">Lucas</A>=20
+in the late 1870's and then made into this simple test about 1930 by =
+Lehmer. The=20
+sequence S(<I>n</I>) is computed modulo 2<I><SUP>p</SUP></I>-1 to save=20
+time.&nbsp; This test is ideal for binary computers because the division =
+by=20
+2<I><SUP>p</SUP></I>-1 (in binary) can be done using rotation and =
+addition=20
+only.&nbsp; (See <A=20
+href=3D"http://www.utm.edu/research/primes/prove/proving.html">the pages =
+on=20
+proving primality</A> for more information of proving numbers are =
+prime.)=20
+<P>In 1811 <A=20
+href=3D"http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Barlow=
+.html">Peter=20
+Barlow</A> wrote in his text Theory of Numbers that=20
+2<SUP>30</SUP>(2<SUP>31</SUP>-1) "is the greatest [perfect number] that =
+will be=20
+discovered; for as they are merely curious, without being useful, it is =
+not=20
+likely that any person will attempt to find one beyond it."&nbsp; I =
+wonder what=20
+he would have made of the first attempts to climb Mount Everest, to run =
+faster=20
+miles, or to jump a longer broad jump--other tasks that are curious but =
+not=20
+useful.&nbsp; Obviously no one in the late 1800's had any idea of the =
+power of=20
+modern computers.&nbsp; What might we know about the machines of 50 =
+years from=20
+now?&nbsp; (See also <A=20
+href=3D"http://www.utm.edu/research/primes/notes/faq/why.html">"Why find =
+big=20
+primes?"</A>)=20
+<P><IMG alt=3D"U-Illinois postage&#13;&#10;stamp"=20
+src=3D"http://www.utm.edu/research/primes/gifs/postage.gif" =
+align=3Dright> After the=20
+23rd Mersenne prime was found at the University of Illinois, the =
+mathematics=20
+department was so proud that they had their postage meter changed to =
+stamp=20
+"2<SUP>11213</SUP>-1 is prime" on each envelope.=20
+<P>The 25th and 26th Mersenne primes were found by high-school students =
+Laura=20
+Nickel and <A=20
+href=3D"http://www.utm.edu/research/primes/bios/titans/Noll.html">Landon =
+Curt=20
+Noll</A>, who, though they had little understanding of the mathematics =
+involved,=20
+used Lucas' simple test on the local university's mainframe (CSUH's CDC =
+174) to=20
+find the next two primes.&nbsp; Their discovery of the first prime made =
+the=20
+national television news and the front page of the New York times.&nbsp; =
+They=20
+went their separate ways after finding the first prime, but Noll kept =
+the=20
+program running to find the second--so Noll claims complete =
+ownership.&nbsp;=20
+Noll searched later, and though he never found another Mersenne prime, =
+he is one=20
+of a team that holds the record for the largest non-Mersenne =
+prime.&nbsp; He=20
+currently works for Silicon Graphics.=20
+<P><A=20
+href=3D"http://www.utm.edu/research/primes/bios/titans/Slowinski.html">Sl=
+owinski</A>,=20
+who works for Cray computers, has written a version of the Lucas test =
+that he=20
+has convinced many Cray labs around the world to run in their spare time =
+(time=20
+that would be lost otherwise).&nbsp; He had to delay announcing one of =
+his prime=20
+records until he got permission to begin looking for it.&nbsp; =
+Slowinski's=20
+search for record primes is "not so organized as you would suppose" (his =
+words),=20
+as he does not search systematically.&nbsp; In fact, looking at the =
+table of=20
+Mersennes you see he missed the 29th prime but found the 30th and =
+31st.&nbsp;=20
+Colquitt &amp; Welsh worked to fill in the gaps and found the 29th.=20
+<P>Enter <A=20
+href=3D"http://www.utm.edu/research/primes/bios/titans/Woltman.html">Geor=
+ge=20
+Woltman</A>, an excellent programmer and organizer.&nbsp; Starting in =
+late 1995=20
+he gathered up the disparate databases and combined them into one. Then =
+he=20
+placed this database, and a free, highly optimized program for search =
+for=20
+Mersennes onto the web.&nbsp; This began <A=20
+href=3D"http://www.mersenne.org/prime.htm">GIMPS</A> (the Great Internet =
+Mersenne=20
+Prime Search) which: has now found the largest known Mersennes, has =
+scanned all=20
+of the regions left unexplored between the previous record primes, =
+combines the=20
+efforts of <A href=3D"http://www.mersenne.org/credits.htm">dozens of =
+experts and=20
+thousands of amateurs</A>, and which offers <A=20
+href=3D"http://www.mersenne.org/freesoft.htm">free software</A> for most =
+computer=20
+platforms.=20
+<P>In late 1997 <A=20
+href=3D"http://www.utm.edu/research/primes/bios/titans/Kurowski.html">Sco=
+tt=20
+Kurowski</A> (and others) established <A=20
+href=3D"http://entropia.com/ips/">PrimeNet</A> to automate the selection =
+of ranges=20
+and reporting of results for GIMPS, now almost anyone can join this =
+search!=20
+<H2><A name=3Dunknown></A>5. Conjectures and Unsolved Problems</H2>
+<DL>
+  <DT><B>Is there an odd perfect number?</B>&nbsp;=20
+  <DD>We know that all even perfect numbers are a Mersenne prime times a =
+power=20
+  of two (<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#theorem1">=
+theorem=20
+  one above</A>), but what about odd perfect numbers?&nbsp; If there is =
+one,=20
+  then it is a perfect square times an odd power of a single prime; it =
+is=20
+  divisible by at least eight primes and has at least 29 prime factors =
+(not=20
+  necessarily distinct [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Sayers86">=
+Sayers86</A>]);=20
+  it has at least 300 decimal digits [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/BCR91">BCR=
+91</A>];=20
+  and it has a prime divisor greater that 10<SUP>20</SUP> [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Cohen87">C=
+ohen87</A>].&nbsp;=20
+  For more information see [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Ribenboim9=
+5">Ribenboim95</A>]=20
+  or [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Guy94">Guy=
+94</A>].=20
+
+  <DT><B>Are there infinitely many Mersenne primes?</B>&nbsp;=20
+  <DD>Equivalently we could ask: Are there infinitely many even perfect=20
+  numbers?&nbsp; The answer is <I>probably</I> yes (because the harmonic =
+series=20
+  diverges).=20
+  <DT><B>Are there infinitely many Mersenne composites?</B>&nbsp;=20
+  <DD>Euler showed:=20
+  <BLOCKQUOTE>If <I>k</I>&gt;1 and <I>p</I>=3D4<I>k</I>+3 is prime, then =
+
+    2<I>p</I>+1 is prime if and only if 2<I><SUP>p</SUP></I> =3D 1 (mod=20
+    2<I>p</I>+1). </BLOCKQUOTE>So if <I>p</I>=3D4<I>k</I>+3 and =
+2<I>p</I>+1 are=20
+  prime then the Mersenne number 2<I><SUP>p</SUP></I>-1 is composite =
+(and it=20
+  seems reasonable to conjecture that there are infinitely many primes =
+pairs=20
+  such <I>p</I>, 2<I>p</I>+1).=20
+  <DT><A name=3Dbsw></A><B>The New Mersenne Conjecture</B>:=20
+  <DD>Bateman, Selfridge and Wagstaff have conjectured [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/BSW89">BSW=
+89</A>]=20
+  the following.=20
+  <BLOCKQUOTE>Let <I>p</I> be any odd natural number. If two of the =
+following=20
+    conditions hold, then so does the third:=20
+    <OL>
+      <LI><I>p</I> =3D 2<I><SUP>k</SUP></I>+/-1&nbsp;&nbsp; =
+or&nbsp;&nbsp;=20
+      <I>p</I> =3D 4<I><SUP>k</SUP></I>+/-3=20
+      <LI>2<I><SUP>p</SUP></I>-1 is a prime (obviously a Mersenne prime) =
+
+      <LI>(2<I><SUP>p</SUP></I>+1)/3 is a prime. =
+</LI></OL></BLOCKQUOTE>Notice how=20
+  this conjecture is related to the theorem in the previous =
+conjecture.&nbsp;=20
+  This conjecture has been verified for all primes=20
+  <I>p</I><U>&lt;</U>100,000.&nbsp; For the status of this conjecture =
+for=20
+  Mersenne primes (when the second condition holds) see <A=20
+  href=3D"http://orca.st.usm.edu/~cwcurry/NMC.html">this page</A>.=20
+  <DT><B>Is every Mersenne number square free?</B>=20
+  <DD>This falls more in the category of an open question (to which we =
+do not=20
+  know the answer), rather than a conjecture (which we guess is true) =
+[<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Guy94">Guy=
+94</A>=20
+  section A3].&nbsp; It is <A=20
+  =
+href=3D"http://www.utm.edu/research/primes/notes/proofs/SquareMerDiv.html=
+">easy=20
+  to show</A> that if the square of a prime <I>p</I> divides a Mersenne, =
+then=20
+  <I>p</I> is a <A=20
+  =
+href=3D"http://primes.utm.edu/glossary/page.php/WieferichPrime.html">Wief=
+erich=20
+  prime</A> and these are rare!&nbsp; Only two are known below =
+4,000,000,000,000=20
+  and neither of these squared divide a Mersenne. &nbsp;<A name=3Dc></A> =
+
+  <DT><B>Let C<SUB>0</SUB> =3D 2, then let C<SUB>1</SUB> =3D=20
+  2<SUP>C<SUB>0</SUB></SUP>-1, C<SUB>2</SUB> =3D =
+2<SUP>C<SUB>1</SUB></SUP>-1,=20
+  C<SUB>3</SUB> =3D 2<SUP>C<SUB>2</SUB></SUP>-1, ... Are these all=20
+  prime?</B>&nbsp;=20
+  <DD>According to Dickson [<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/references/refs.cgi/Dickson19"=
+>Dickson</A>=20
+  v1p22] Catalan responded in 1876 to Lucas' stating 2<SUP>127</SUP>-1=20
+  (C<SUB>4</SUB>) is prime with this sequence.&nbsp; These numbers grow =
+very=20
+  quickly:=20
+  <BLOCKQUOTE>
+    <TABLE>
+      <TBODY>
+      <TR>
+        <TD>C<SUB>0</SUB> =3D 2</TD>
+        <TD align=3Dmiddle>(prime)</TD></TR>
+      <TR>
+        <TD>C<SUB>1</SUB> =3D 3</TD>
+        <TD align=3Dmiddle>(prime)</TD></TR>
+      <TR>
+        <TD>C<SUB>2</SUB> =3D 7</TD>
+        <TD align=3Dmiddle>(prime)</TD></TR>
+      <TR>
+        <TD>C<SUB>3</SUB> =3D 127</TD>
+        <TD align=3Dmiddle>(prime)</TD></TR>
+      <TR>
+        <TD>C<SUB>4</SUB> =3D =
+170141183460469231731687303715884105727</TD>
+        <TD align=3Dmiddle>(prime)</TD></TR>
+      <TR>
+        <TD>C<SUB>5</SUB> &gt;=20
+          10<SUP>51217599719369681879879723386331576246</SUP></TD>
+        <TD align=3Dmiddle>(is C<SUB>5</SUB> prime=20
+  ?)</TD></TR></TBODY></TABLE></BLOCKQUOTE>It seems very unlikely that=20
+  C<SUB>5</SUB> (or many of the larger terms) would be prime, so this is =
+no=20
+  doubt another example of Guy's <A=20
+  =
+href=3D"http://primes.utm.edu/glossary/page.php/LawOfSmall.html">strong =
+law of=20
+  small numbers</A>.&nbsp; Notice that if there is even one composite =
+term in=20
+  this sequences, then by<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#theorem1">=
+=20
+  theorem one</A> all of the following terms are composite.&nbsp; (<A=20
+  =
+href=3D"http://www.utm.edu/research/primes/bios/titans/Noll.html">Landon =
+Curt=20
+  Noll</A> tells me he has used his program <A=20
+  =
+href=3D"http://www.isthe.com/chongo/tech/comp/calc/index.html">calc</A> =
+to=20
+  verify that C<SUB>5</SUB> has no prime divisors below=20
+  5<SUP>.</SUP>10<SUP>50</SUP>.)=20
+  <DT><B>Are there more double-Mersenne primes?</B>=20
+  <DD>Another common early misconception was that if=20
+  <I>n</I>=3DM<SUB><I>p</I></SUB> is prime, then so is =
+M<SUB><I>n</I></SUB>; lets=20
+  call this number MM<SUB><I>p</I></SUB> (a "double-Mersenne").&nbsp; =
+Indeed=20
+  each of the first four such numbers are prime:=20
+  <BLOCKQUOTE>MM<SUB>2</SUB> =3D 2<SUP>3</SUP>-1 =3D =
+7,<BR>MM<SUB>3</SUB> =3D=20
+    2<SUP>7</SUP>-1 =3D 127,<BR>MM<SUB>5</SUB> =3D 2<SUP>31</SUP>-1 =3D=20
+    2147483647,<BR>MM<SUB>7</SUB> =3D 2<SUP>127</SUP>-1 =3D=20
+    170141183460469231731687303715884105727. </BLOCKQUOTE>However, the =
+next four=20
+  (MM<SUB>13</SUB> MM<SUB>17</SUB> MM<SUB>19</SUB> and MM<SUB>31</SUB>) =
+all have=20
+  known factors--so are composite.&nbsp; Are there any more primes in =
+this=20
+  sequence?&nbsp; Probably not, but it remains an open question.&nbsp; =
+Tony=20
+  Forbes is leading <A =
+href=3D"http://www.ltkz.demon.co.uk/ar2/mm61.htm">a project=20
+  to search for a factor of the next term</A>: MM<SUB>61</SUB>, you =
+might want=20
+  to join and help!=20
+  <P>Notice the <A=20
+  =
+href=3D"http://www.utm.edu/research/primes/mersenne/index.html#c">Catalan=
+=20
+  sequence</A> above is a subsequence of this one. </P></DD></DL><!-- =
+signature for pages without a side bar -->
+<P>
+<HR>
+<A =
+onmouseover=3D"document.image.src=3D'/research/primes/gifs/logo2a.gif'"=20
+onclick=3D"return true"=20
+onmouseout=3D"document.image.src=3D'/research/primes/gifs/logo2.gif'"=20
+href=3D"http://www.utm.edu/research/primes/"><IMG height=3D20=20
+alt=3D"Prime Pages' Home" =
+src=3D"http://www.utm.edu/research/primes/gifs/logo2.gif"=20
+width=3D90 align=3Dleft border=3D0 name=3Dimage></A> Another <A=20
+href=3D"http://www.utm.edu/research/primes/">prime page</A> by <A=20
+href=3D"http://www.utm.edu/~caldwell">Chris K. Caldwell</A>=20
+<B>&lt;caldwell@utm.edu&gt;</B> </BODY></HTML>
+
+------=_NextPart_000_0000_01C1BC62.3CD14890
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.utm.edu/research/primes/gifs/banner1.gif
+
+R0lGODlh0gAZAPcAAMX//8Xv/7Xm/63m/63e963e/6Xe/5ze/5ze95Te/4ze/6XW95zW95TW95TW
+/4zW/4zW94TW/4TW93vW/5TO75TO5ozO74zO94TO94TO73vO93vO/3PO/3vO73PO95TF3ozF5mvO
+94zF3mbM/4TF5nvF73PF93vF5nPF73PF5mvF92vF72PF74S93mPF93u93nu95nO95nO93mu972u9
+5mO972u93mO95nu11lq971q95nu1znO13nO11mu13nO1zmu11mO15mO13mO11lq15lq13nOtznOt
+xWut1mutzmOt1mutxWOtzlqt3lqt1lqtzlKt1nOlvWulxWOlxWOlzlqlzlqlxVKlzlKlxWuctWuc
+vWOcvWOctVqcvVqcxVKcxVqctVKcvUqcxWuUrWuUpUqcvWOUrVqUtVqUrVKUvVKUtVKUrUqUvUqU
+tWOMpWOMnFqMpVKMrVKMpUqMtUqMrUqMpUKMrWOEnFqElFqEnFKEpVKEnEqEpUqEnEKEpUKEnFJ7
+lEp7lEJ7nEJ7lDp7nDp7lEpzjEpzhEJzjEJzlDpzlEJzhDpzjEJrhEJrezprjDprhDFrjDprezFr
+hDFre0Jjc0JjezpjezpjczFjezFjhDFjczpaazpaczpaYzFaczFaaylacylaazFSYzFSWilSaylS
+YzFKUjFKWilKYylKWilKUiFKWjFCUilCUilCSiFCUiFCSik6SiE6SiE6Qhk6Shk6QiExOiExQhkx
+QhkxOhkpMRkpOhApMRkhKRAhMRAhKRAhIRAZIQgZGQgQGQgQEAgIEAgICAAAAP///wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEA
+AAAh+QQFkAHJACwAAAAA0gAZAAAI/wAPCBhwIIGCgwgTKlzIsKHDhxAjSpxIsaLFixgfPngQwcSK
+AQEEFMxIsqTJkyhTqoy4UQMNIQYGjJhJs6bNmzMz5bJJpxeyYqpy4BwRKlTNIrCQIetl52jSpU1p
+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
+ChSnSMWnMDEjAQEAOw==
+
+------=_NextPart_000_0000_01C1BC62.3CD14890
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.utm.edu/research/primes/gifs/banner3.gif
+
+R0lGODlh0gAZAIcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwHo
+AwAh+QQAZAAAACwAAAAA0gAZAAME4XDJSau9OOvNu/9gKI5kaZ5oqq5s675wLM90bd94ru987//A
+oHBILBpbAIAm6WGGnEToRHqsUStXTPbi3Pqu3uorDOsqi+Cz2KpOQs1u7tmdZtLVC7o2PuVL9H98
+gHd9azZmgYl5c3iKiFiMjpGQkpWLgZN2mY2GZZuWaZYUj3B+hZCAmJOXo5+dM6SuoayzsRupWZqK
+rKePr0iywRa2lLSrt8egbY2+v2PCxru9ydHVtdC+iMTOLKmLb66touLZpq1S3oS839Dc7u/w8fLz
+9PX29/j5+vv8/f7/AAMKHFghAgAh+QQAZAAAACwAAAAA0gAZAAcI/AAXCBxIsKDBgwgTKlzIsKHD
+hxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bNmzhz6mQIoKfPnguA
+TvwJAKTQnUgtHg1aVOLRpUObEoRakGpGq0k9LsWqEKpUilS5Mv0oNqvGrT+n+jyINS1TtELdDozr
+tu5agWmJqqVb1uxFtHib0jXYdvDYw4bVBl6MWLBjx4wN9/Wr9KtkvVUfQw4s9+1mxY0jY366mehn
+ylotl/5KWDXjw5lDx5adeK7Uy61RG3UtGyFg2GFX56Z9+jXu2bo7/j6OPPHx2qKjE7ctHXryq7xJ
+c8372vNe0iCznWumLt07+evo06tfz769+/fw48ufT7++/fv485cMCAAh+QQAZAAAACwAAAAA0gAZ
+AAME+3DJSau9OOvNu/9gKI5kaZ5oqq5s675wLM90bd94ru987//AoHBILBo3AIAleaQkn8ylUgWd
+tqJNCXayPW67CzAJKz6ViU/nWfi1vshuatzbtkK56XBeu6/i93pibYFKUVV3f3N6GIh8cIZ5fk2I
+lFOQlph8mouckJtgg5GZnaOCXZ6kjp+Fo0aVl6J4UpWrq42JsbWphGd9ko6tp61FTHeoampwUrrH
+F6ayu81Iw7LHwpuurMXUnBXS0aWK0N524bqM5djQ1nHfbObg6/Co9NzPzPNzyvG7qe5B9RKNI5Qs
+HT+CyxLyeyTuF0Jgw2h1y0KxosWLGDNq3MixEqPHjyBDihxJsqTJkyhTqswYAQAh+QQAZAAAACwA
+AAAA0gAZAAME4nDJSau9OOvNu/9gKI5kaZ5oqq5s675wLM90bd94ru987//AoHBILBp5AMDRk7Q0
+O8+l8RmVOpWVqkZrDVKxXSh4ww2/klU0Vs0eS75R9Rt9YU/kC3xaGcfn6Xd+ZjBfc4Z/hoWIioCK
+FIyQiIGSkZRrboMtXJWFTXuObVeHfaOXpaV6ppkxfpymnmCwh5IYlZant7mPqqsyrqh2uaQZtqCA
+wryTtL0sv7rGuLrK0Mt7uM7Mmsd/w8i7jWOCgcefbtZz5NvB2ewiZe3wg+/x9FLz9fj5+vv8/f7/
+AAMKHEhwRgQAIfkEAGQAAAAsAAAAANIAGQADBPtwyUmrvTjrzbv/YCiOZGmeaKqubOu+cCzPdG3f
+eK7vfO//wKBwSCwaPwCAJJlhNpVG59MmPXac1UqWshV2J98VFmq9kjXhcHl5fqnXi+SYDZbT42c5
+VF/P6v9cdmxjXYSGg2R8f3x9e3ZSjHiCP3NzeHRMW5aEFpuOd4KWgaCfl6ahpZ6kq6dtO36pbZGj
+rXdasayQgLe5uKa1v5K+qsE8sKx9GMSFw77FvMDLic6Zzb1Ax8CNF9Lc1tpq3dHT1+PlbzWV1tWd
+39DiurZ159Tf8M4+jKL6pfOI/u/6Raoyyx8xYQAP7rqkK94zOBAjSpxIsaLFixgzatzIsQ6jx48g
+Q4ocSbKkyQsRAAAh/u9UaGlzIEdJRiBmaWxlIHdhcyBhc3NlbWJsZWQgd2l0aCBHSUYgQ29uc3Ry
+dWN0aW9uIFNldCBmcm9tOg0KDQpBbGNoZW15IE1pbmR3b3JrcyBJbmMuDQpQLk8uIEJveCA1MDAN
+CkJlZXRvbiwgT250YXJpbw0KTDBHIDFBMA0KQ0FOQURBLg0KDQpUaGlzIGNvbW1lbnQgYmxvY2sg
+d2lsbCBub3QgYXBwZWFyIGluIGZpbGVzIGNyZWF0ZWQgd2l0aCBhIHJlZ2lzdGVyZWQgdmVyc2lv
+biBvZiBHSUYgQ29uc3RydWN0aW9uIFNldAAh/wtHSUZDT05uYjEuMAIFAA4JAAIAAwAAAAAAAAAA
+AAljOlwxLmJtcAAOCgACAAUAAAAAAAAAAAAKQ2xpcGJvYXJkAA4JAAIABwAAAAAAAAAAAAljOlwz
+LmJtcAAOCQACAAkAAAAAAAAAAAAJYzpcNC5ibXAADgkAAgALAAAAAAAAAAAACWM6XDUuYm1wAAA7
+
+------=_NextPart_000_0000_01C1BC62.3CD14890
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.utm.edu/research/primes/gifs/postage.gif
+
+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
+
+------=_NextPart_000_0000_01C1BC62.3CD14890
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.utm.edu/research/primes/gifs/logo2.gif
+
+R0lGODlhWgAUAPcMAAAAAIAAAACAAICAAAAAgIAAgACAgICAgAQEBAT8/IycnAAA/9z8/Gx8fFys
+5KS8vAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAMDAwP8AAAD/AP//AAAA//8A/wD//////yH5BAEAAAwALAAAAABaABQA
+QAj/ABkIHEiwoMGDCBMqXMiQoQMHDBAgYKAAQYOIEjMKlLgxo0eODz5ORMix4kUGDT4yCKmSpUeM
+GS8+ZDCzoc2bOA+mPGlz5syUFh8obMAzZ0KgDYQa7QlxJkeCT6GOfEp1osSkDKN2VLCSo8QHLjFi
+NciSZtOHaNOqXcu2rdu3cOPCNYuRotalOUvexXvQJ0SPSp8S7dhRaFWMCoByJZkxMALHGIWWlZiY
+st2gAv2iLLrZ4ODOoD9XxozwM8GKFkVTfjoaK2rMfuXKnk077euktWPn3s27d1u6fIMLN6r542Kd
+nIcbH46w+NSJRFEv/pyS5ejFD5AqPXhYoHaB2a8qYg2PmbxFuk4Biy1bF6b1sjsvJ/wodKdh6Ofr
+xkcdmaDzgnt1d5hHYzEG4Eh1seZVTNs9IB16fyFI2IETHvaaRgaeJtJlL1244EuaMSeiTewxBdyI
+KBYEVGM46ebbizDSxkBAADs=
+
+------=_NextPart_000_0000_01C1BC62.3CD14890
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.utm.edu/research/primes/includes/primepages.css
+
+BODY {
+	COLOR: black; BACKGROUND-COLOR: white
+}
+HR {
+	COLOR: #000099; BACKGROUND-COLOR: white
+}
+A {
+	COLOR: #000033; BACKGROUND-COLOR: #f0f9ff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: black; BACKGROUND-COLOR: #cceeff; TEXT-DECORATION: underline
+}
+.note {
+	BORDER-RIGHT: #cccccc thick solid; PADDING-RIGHT: 1em; MARGIN-TOP: 0em; =
+PADDING-LEFT: 1em; Z-INDEX: 4; FLOAT: right; MARGIN-BOTTOM: 0.5em; =
+PADDING-BOTTOM: 1em; MARGIN-LEFT: 1em; PADDING-TOP: 1em; FONT-STYLE: =
+italic; TOP: 3cm; BACKGROUND-COLOR: #cceeff; TEXT-ALIGN: right
+}
+A.white {
+	BACKGROUND-COLOR: #ffffff
+}
+A.menu {
+	FONT-SIZE: 12pt; COLOR: black; TEXT-DECORATION: none
+}
+A.menu:hover {
+	COLOR: #00f; BACKGROUND-COLOR: rgb(102,204,255); TEXT-DECORATION: =
+underline
+}
+A.side {
+	FONT-SIZE: 12pt; COLOR: black; BACKGROUND-COLOR: #66ccff; =
+TEXT-DECORATION: none; text-shadow: 0.3em 0.3em 0.1em #333
+}
+A.side:hover {
+	COLOR: rgb(0,0,255); BACKGROUND-COLOR: rgb(204,255,255); =
+TEXT-DECORATION: underline
+}
+A.bib {
+	COLOR: black; TEXT-DECORATION: none
+}
+A.bib:hover {
+	BACKGROUND-COLOR: rgb(204,255,255); TEXT-DECORATION: underline
+}
+
+------=_NextPart_000_0000_01C1BC62.3CD14890--
